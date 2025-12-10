@@ -1,0 +1,551 @@
+Year,Occupation,Emigrants
+1981,"Prof'l",4821
+1982,"Prof'l",5509
+1983,"Prof'l",3928
+1984,"Prof'l",3791
+1985,"Prof'l",3869
+1986,"Prof'l",4147
+1987,"Prof'l",4899
+1988,"Prof'l",7689
+1989,"Prof'l",6861
+1990,"Prof'l",7858
+1991,"Prof'l",7635
+1992,"Prof'l",7299
+1993,"Prof'l",7225
+1994,"Prof'l",6369
+1995,"Prof'l",5416
+1996,"Prof'l",6315
+1997,"Prof'l",5522
+1998,"Prof'l",3425
+1999,"Prof'l",2521
+2000,"Prof'l",6154
+2001,"Prof'l",6932
+2002,"Prof'l",8294
+2003,"Prof'l",7574
+2004,"Prof'l",9540
+2005,"Prof'l",9095
+2006,"Prof'l",12526
+2007,"Prof'l",7816
+2008,"Prof'l",7072
+2009,"Prof'l",6849
+2010,"Prof'l",7932
+2011,"Prof'l",8181
+2012,"Prof'l",7841
+2013,"Prof'l",6499
+2014,"Prof'l",6507
+2015,"Prof'l",7504
+2016,"Prof'l",6781
+2017,"Prof'l",5074
+2018,"Prof'l",5029
+2019,"Prof'l",5209
+2020,"Prof'l",1240
+1981,"Managerial",451
+1982,"Managerial",360
+1983,"Managerial",324
+1984,"Managerial",320
+1985,"Managerial",366
+1986,"Managerial",369
+1987,"Managerial",420
+1988,"Managerial",678
+1989,"Managerial",480
+1990,"Managerial",430
+1991,"Managerial",461
+1992,"Managerial",548
+1993,"Managerial",823
+1994,"Managerial",800
+1995,"Managerial",613
+1996,"Managerial",635
+1997,"Managerial",687
+1998,"Managerial",621
+1999,"Managerial",740
+2000,"Managerial",791
+2001,"Managerial",932
+2002,"Managerial",890
+2003,"Managerial",928
+2004,"Managerial",770
+2005,"Managerial",1025
+2006,"Managerial",1449
+2007,"Managerial",1708
+2008,"Managerial",1553
+2009,"Managerial",2001
+2010,"Managerial",2603
+2011,"Managerial",2176
+2012,"Managerial",1954
+2013,"Managerial",2195
+2014,"Managerial",1905
+2015,"Managerial",1789
+2016,"Managerial",1554
+2017,"Managerial",1258
+2018,"Managerial",1211
+2019,"Managerial",1249
+2020,"Managerial",282
+1981,"Clerical",2475
+1982,"Clerical",3992
+1983,"Clerical",2796
+1984,"Clerical",3131
+1985,"Clerical",2972
+1986,"Clerical",3394
+1987,"Clerical",4605
+1988,"Clerical",2157
+1989,"Clerical",1681
+1990,"Clerical",1807
+1991,"Clerical",1928
+1992,"Clerical",1789
+1993,"Clerical",2079
+1994,"Clerical",2153
+1995,"Clerical",2270
+1996,"Clerical",1600
+1997,"Clerical",1646
+1998,"Clerical",1357
+1999,"Clerical",1339
+2000,"Clerical",1625
+2001,"Clerical",1480
+2002,"Clerical",1377
+2003,"Clerical",1333
+2004,"Clerical",1450
+2005,"Clerical",1454
+2006,"Clerical",1945
+2007,"Clerical",2153
+2008,"Clerical",1979
+2009,"Clerical",2451
+2010,"Clerical",2596
+2011,"Clerical",2207
+2012,"Clerical",1947
+2013,"Clerical",1915
+2014,"Clerical",1954
+2015,"Clerical",1925
+2016,"Clerical",1878
+2017,"Clerical",1453
+2018,"Clerical",1370
+2019,"Clerical",1385
+2020,"Clerical",356
+1981,"Sales",1628
+1982,"Sales",1865
+1983,"Sales",1414
+1984,"Sales",1326
+1985,"Sales",1819
+1986,"Sales",2109
+1987,"Sales",2825
+1988,"Sales",2184
+1989,"Sales",2251
+1990,"Sales",2715
+1991,"Sales",2878
+1992,"Sales",3031
+1993,"Sales",2116
+1994,"Sales",2681
+1995,"Sales",2524
+1996,"Sales",2704
+1997,"Sales",2695
+1998,"Sales",1862
+1999,"Sales",1793
+2000,"Sales",2324
+2001,"Sales",2291
+2002,"Sales",2830
+2003,"Sales",2886
+2004,"Sales",3426
+2005,"Sales",3358
+2006,"Sales",3564
+2007,"Sales",3576
+2008,"Sales",3037
+2009,"Sales",3227
+2010,"Sales",2950
+2011,"Sales",2880
+2012,"Sales",2786
+2013,"Sales",2129
+2014,"Sales",2495
+2015,"Sales",2807
+2016,"Sales",3018
+2017,"Sales",2287
+2018,"Sales",2383
+2019,"Sales",2366
+2020,"Sales",498
+1981,"Service",2381
+1982,"Service",2213
+1983,"Service",1614
+1984,"Service",1075
+1985,"Service",1037
+1986,"Service",1038
+1987,"Service",874
+1988,"Service",956
+1989,"Service",1028
+1990,"Service",1331
+1991,"Service",1965
+1992,"Service",1755
+1993,"Service",1724
+1994,"Service",2436
+1995,"Service",1230
+1996,"Service",1026
+1997,"Service",1103
+1998,"Service",752
+1999,"Service",1129
+2000,"Service",964
+2001,"Service",992
+2002,"Service",1046
+2003,"Service",1139
+2004,"Service",1338
+2005,"Service",1850
+2006,"Service",1192
+2007,"Service",1035
+2008,"Service",1188
+2009,"Service",1600
+2010,"Service",1688
+2011,"Service",1899
+2012,"Service",2161
+2013,"Service",2333
+2014,"Service",2522
+2015,"Service",2639
+2016,"Service",2754
+2017,"Service",3501
+2018,"Service",2892
+2019,"Service",2921
+2020,"Service",664
+1981,"Agriculture",2238
+1982,"Agriculture",1894
+1983,"Agriculture",1787
+1984,"Agriculture",1475
+1985,"Agriculture",1483
+1986,"Agriculture",1389
+1987,"Agriculture",1105
+1988,"Agriculture",1227
+1989,"Agriculture",1081
+1990,"Agriculture",1283
+1991,"Agriculture",1412
+1992,"Agriculture",1177
+1993,"Agriculture",1409
+1994,"Agriculture",1294
+1995,"Agriculture",1020
+1996,"Agriculture",1189
+1997,"Agriculture",1003
+1998,"Agriculture",739
+1999,"Agriculture",693
+2000,"Agriculture",899
+2001,"Agriculture",965
+2002,"Agriculture",979
+2003,"Agriculture",920
+2004,"Agriculture",1098
+2005,"Agriculture",888
+2006,"Agriculture",1086
+2007,"Agriculture",1201
+2008,"Agriculture",948
+2009,"Agriculture",1217
+2010,"Agriculture",1311
+2011,"Agriculture",1138
+2012,"Agriculture",958
+2013,"Agriculture",906
+2014,"Agriculture",858
+2015,"Agriculture",1151
+2016,"Agriculture",1032
+2017,"Agriculture",920
+2018,"Agriculture",789
+2019,"Agriculture",590
+2020,"Agriculture",136
+1981,"Production",1780
+1982,"Production",2758
+1983,"Production",1951
+1984,"Production",1992
+1985,"Production",1848
+1986,"Production",1822
+1987,"Production",1754
+1988,"Production",2281
+1989,"Production",2236
+1990,"Production",2476
+1991,"Production",3113
+1992,"Production",2507
+1993,"Production",2906
+1994,"Production",2616
+1995,"Production",2407
+1996,"Production",2721
+1997,"Production",2204
+1998,"Production",1487
+1999,"Production",1545
+2000,"Production",2025
+2001,"Production",1695
+2002,"Production",1762
+2003,"Production",1759
+2004,"Production",2198
+2005,"Production",1821
+2006,"Production",2260
+2007,"Production",2374
+2008,"Production",2188
+2009,"Production",2801
+2010,"Production",2889
+2011,"Production",2936
+2012,"Production",2562
+2013,"Production",2162
+2014,"Production",2290
+2015,"Production",2708
+2016,"Production",2494
+2017,"Production",2342
+2018,"Production",1819
+2019,"Production",1597
+2020,"Production",405
+1981,"Armed Forces",858
+1982,"Armed Forces",504
+1983,"Armed Forces",96
+1984,"Armed Forces",57
+1985,"Armed Forces",36
+1986,"Armed Forces",32
+1987,"Armed Forces",73
+1988,"Armed Forces",315
+1989,"Armed Forces",309
+1990,"Armed Forces",285
+1991,"Armed Forces",285
+1992,"Armed Forces",159
+1993,"Armed Forces",84
+1994,"Armed Forces",67
+1995,"Armed Forces",48
+1996,"Armed Forces",41
+1997,"Armed Forces",32
+1998,"Armed Forces",18
+1999,"Armed Forces",357
+2000,"Armed Forces",73
+2001,"Armed Forces",139
+2002,"Armed Forces",358
+2003,"Armed Forces",217
+2004,"Armed Forces",57
+2005,"Armed Forces",116
+2006,"Armed Forces",310
+2007,"Armed Forces",289
+2008,"Armed Forces",226
+2009,"Armed Forces",247
+2010,"Armed Forces",389
+2011,"Armed Forces",327
+2012,"Armed Forces",175
+2013,"Armed Forces",128
+2014,"Armed Forces",149
+2015,"Armed Forces",285
+2016,"Armed Forces",214
+2017,"Armed Forces",190
+2018,"Armed Forces",220
+2019,"Armed Forces",259
+2020,"Armed Forces",54
+1981,"Housewives",11202
+1982,"Housewives",12469
+1983,"Housewives",9025
+1984,"Housewives",8730
+1985,"Housewives",9247
+1986,"Housewives",8695
+1987,"Housewives",9315
+1988,"Housewives",9720
+1989,"Housewives",9929
+1990,"Housewives",11520
+1991,"Housewives",12248
+1992,"Housewives",15076
+1993,"Housewives",15850
+1994,"Housewives",14800
+1995,"Housewives",12863
+1996,"Housewives",14549
+1997,"Housewives",13377
+1998,"Housewives",9545
+1999,"Housewives",10146
+2000,"Housewives",11000
+2001,"Housewives",11561
+2002,"Housewives",12138
+2003,"Housewives",11418
+2004,"Housewives",12014
+2005,"Housewives",13477
+2006,"Housewives",17701
+2007,"Housewives",17677
+2008,"Housewives",14396
+2009,"Housewives",15283
+2010,"Housewives",14036
+2011,"Housewives",13918
+2012,"Housewives",13647
+2013,"Housewives",13086
+2014,"Housewives",13423
+2015,"Housewives",13723
+2016,"Housewives",13357
+2017,"Housewives",11400
+2018,"Housewives",11310
+2019,"Housewives",9326
+2020,"Housewives",2918
+1981,"Retirees",1718
+1982,"Retirees",2056
+1983,"Retirees",1327
+1984,"Retirees",1022
+1985,"Retirees",1103
+1986,"Retirees",1399
+1987,"Retirees",1691
+1988,"Retirees",1417
+1989,"Retirees",1716
+1990,"Retirees",1855
+1991,"Retirees",2107
+1992,"Retirees",1948
+1993,"Retirees",2236
+1994,"Retirees",2241
+1995,"Retirees",1670
+1996,"Retirees",2069
+1997,"Retirees",1897
+1998,"Retirees",1326
+1999,"Retirees",1706
+2000,"Retirees",1898
+2001,"Retirees",2288
+2002,"Retirees",2207
+2003,"Retirees",1936
+2004,"Retirees",2378
+2005,"Retirees",2325
+2006,"Retirees",3152
+2007,"Retirees",4310
+2008,"Retirees",3322
+2009,"Retirees",3821
+2010,"Retirees",3315
+2011,"Retirees",3020
+2012,"Retirees",3854
+2013,"Retirees",3435
+2014,"Retirees",3105
+2015,"Retirees",3576
+2016,"Retirees",2895
+2017,"Retirees",2322
+2018,"Retirees",2536
+2019,"Retirees",2736
+2020,"Retirees",592
+1981,"Students",10486
+1982,"Students",10374
+1983,"Students",9773
+1984,"Students",8872
+1985,"Students",9575
+1986,"Students",11439
+1987,"Students",13409
+1988,"Students",14811
+1989,"Students",13429
+1990,"Students",13641
+1991,"Students",13722
+1992,"Students",15324
+1993,"Students",17725
+1994,"Students",16954
+1995,"Students",14760
+1996,"Students",17019
+1997,"Students",14572
+1998,"Students",10552
+1999,"Students",10903
+2000,"Students",12908
+2001,"Students",12731
+2002,"Students",13656
+2003,"Students",13098
+2004,"Students",14990
+2005,"Students",16931
+2006,"Students",20465
+2007,"Students",21151
+2008,"Students",18885
+2009,"Students",20897
+2010,"Students",23145
+2011,"Students",21796
+2012,"Students",21507
+2013,"Students",19792
+2014,"Students",20698
+2015,"Students",26667
+2016,"Students",24749
+2017,"Students",23912
+2018,"Students",20363
+2019,"Students",16403
+2020,"Students",3966
+1981,"Minors",3625
+1982,"Minors",4419
+1983,"Minors",3826
+1984,"Minors",3919
+1985,"Minors",4348
+1986,"Minors",4750
+1987,"Minors",5382
+1988,"Minors",5683
+1989,"Minors",5114
+1990,"Minors",5051
+1991,"Minors",4783
+1992,"Minors",4913
+1993,"Minors",4642
+1994,"Minors",4315
+1995,"Minors",4216
+1996,"Minors",4342
+1997,"Minors",3523
+1998,"Minors",2497
+1999,"Minors",2594
+2000,"Minors",3286
+2001,"Minors",4060
+2002,"Minors",4796
+2003,"Minors",4688
+2004,"Minors",5880
+2005,"Minors",5672
+2006,"Minors",6692
+2007,"Minors",5820
+2008,"Minors",4954
+2009,"Minors",5831
+2010,"Minors",7162
+2011,"Minors",6770
+2012,"Minors",6172
+2013,"Minors",5659
+2014,"Minors",5849
+2015,"Minors",6159
+2016,"Minors",5788
+2017,"Minors",4555
+2018,"Minors",4258
+2019,"Minors",3687
+2020,"Minors",848
+1988,"Out of School Youth",132
+1989,"Out of School Youth",222
+1990,"Out of School Youth",213
+1991,"Out of School Youth",270
+1992,"Out of School Youth",325
+1993,"Out of School Youth",201
+1994,"Out of School Youth",3
+1995,"Out of School Youth",6
+1996,"Out of School Youth",2
+2000,"Out of School Youth",163
+2001,"Out of School Youth",371
+2002,"Out of School Youth",655
+2003,"Out of School Youth",376
+2004,"Out of School Youth",677
+2005,"Out of School Youth",550
+2006,"Out of School Youth",178
+2007,"Out of School Youth",307
+2008,"Out of School Youth",299
+2009,"Out of School Youth",380
+2010,"Out of School Youth",457
+2011,"Out of School Youth",573
+2012,"Out of School Youth",381
+2013,"Out of School Youth",739
+2014,"Out of School Youth",435
+2015,"Out of School Youth",473
+2016,"Out of School Youth",1466
+2017,"Out of School Youth",564
+2018,"Out of School Youth",443
+2019,"Out of School Youth",515
+2020,"Out of School Youth",126
+1981,"No Occupation Reported",5204
+1982,"No Occupation Reported",5540
+1983,"No Occupation Reported",4620
+1984,"No Occupation Reported",5841
+1985,"No Occupation Reported",7566
+1986,"No Occupation Reported",8755
+1987,"No Occupation Reported",9998
+1988,"No Occupation Reported",8769
+1989,"No Occupation Reported",9407
+1990,"No Occupation Reported",12684
+1991,"No Occupation Reported",9656
+1992,"No Occupation Reported",8303
+1993,"No Occupation Reported",7370
+1994,"No Occupation Reported",7802
+1995,"No Occupation Reported",7199
+1996,"No Occupation Reported",6701
+1997,"No Occupation Reported",5798
+1998,"No Occupation Reported",4828
+1999,"No Occupation Reported",5041
+2000,"No Occupation Reported",6921
+2001,"No Occupation Reported",5617
+2002,"No Occupation Reported",6732
+2003,"No Occupation Reported",6865
+2004,"No Occupation Reported",9108
+2005,"No Occupation Reported",10466
+2006,"No Occupation Reported",10447
+2007,"No Occupation Reported",11182
+2008,"No Occupation Reported",10753
+2009,"No Occupation Reported",13113
+2010,"No Occupation Reported",15602
+2011,"No Occupation Reported",15589
+2012,"No Occupation Reported",17695
+2013,"No Occupation Reported",17250
+2014,"No Occupation Reported",18499
+2015,"No Occupation Reported",21592
+2016,"No Occupation Reported",21374
+2017,"No Occupation Reported",20001
+2018,"No Occupation Reported",19096
+2019,"No Occupation Reported",16921
+2020,"No Occupation Reported",3618

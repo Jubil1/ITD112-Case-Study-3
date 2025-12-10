@@ -1,0 +1,562 @@
+Year,Region,Emigrants
+1988,"Region I - Ilocos Region",5748
+1989,"Region I - Ilocos Region",5737
+1990,"Region I - Ilocos Region",6949
+1991,"Region I - Ilocos Region",6870
+1992,"Region I - Ilocos Region",7007
+1993,"Region I - Ilocos Region",7492
+1994,"Region I - Ilocos Region",7624
+1995,"Region I - Ilocos Region",7078
+1996,"Region I - Ilocos Region",7959
+1997,"Region I - Ilocos Region",6683
+1998,"Region I - Ilocos Region",4984
+1999,"Region I - Ilocos Region",4889
+2000,"Region I - Ilocos Region",6146
+2001,"Region I - Ilocos Region",5603
+2002,"Region I - Ilocos Region",5970
+2003,"Region I - Ilocos Region",5999
+2004,"Region I - Ilocos Region",7364
+2005,"Region I - Ilocos Region",7035
+2006,"Region I - Ilocos Region",7857
+2007,"Region I - Ilocos Region",8387
+2008,"Region I - Ilocos Region",7441
+2009,"Region I - Ilocos Region",8903
+2010,"Region I - Ilocos Region",10899
+2011,"Region I - Ilocos Region",9569
+2012,"Region I - Ilocos Region",8906
+2013,"Region I - Ilocos Region",8322
+2014,"Region I - Ilocos Region",8738
+2015,"Region I - Ilocos Region",10554
+2016,"Region I - Ilocos Region",9480
+2017,"Region I - Ilocos Region",9271
+2018,"Region I - Ilocos Region",8364
+2019,"Region I - Ilocos Region",6831
+2020,"Region I - Ilocos Region",1563
+1988,"Region II - Cagayan Valley",701
+1989,"Region II - Cagayan Valley",705
+1990,"Region II - Cagayan Valley",766
+1991,"Region II - Cagayan Valley",811
+1992,"Region II - Cagayan Valley",872
+1993,"Region II - Cagayan Valley",962
+1994,"Region II - Cagayan Valley",1146
+1995,"Region II - Cagayan Valley",1005
+1996,"Region II - Cagayan Valley",1230
+1997,"Region II - Cagayan Valley",1047
+1998,"Region II - Cagayan Valley",753
+1999,"Region II - Cagayan Valley",848
+2000,"Region II - Cagayan Valley",796
+2001,"Region II - Cagayan Valley",891
+2002,"Region II - Cagayan Valley",1031
+2003,"Region II - Cagayan Valley",1007
+2004,"Region II - Cagayan Valley",1263
+2005,"Region II - Cagayan Valley",1168
+2006,"Region II - Cagayan Valley",1640
+2007,"Region II - Cagayan Valley",1528
+2008,"Region II - Cagayan Valley",1416
+2009,"Region II - Cagayan Valley",1906
+2010,"Region II - Cagayan Valley",2100
+2011,"Region II - Cagayan Valley",2115
+2012,"Region II - Cagayan Valley",2111
+2013,"Region II - Cagayan Valley",1876
+2014,"Region II - Cagayan Valley",2043
+2015,"Region II - Cagayan Valley",3363
+2016,"Region II - Cagayan Valley",2888
+2017,"Region II - Cagayan Valley",3012
+2018,"Region II - Cagayan Valley",2361
+2019,"Region II - Cagayan Valley",2110
+2020,"Region II - Cagayan Valley",464
+1988,"Region III - Central Luzon",12087
+1989,"Region III - Central Luzon",11198
+1990,"Region III - Central Luzon",12266
+1991,"Region III - Central Luzon",11559
+1992,"Region III - Central Luzon",12433
+1993,"Region III - Central Luzon",10849
+1994,"Region III - Central Luzon",10510
+1995,"Region III - Central Luzon",9502
+1996,"Region III - Central Luzon",10245
+1997,"Region III - Central Luzon",8951
+1998,"Region III - Central Luzon",6280
+1999,"Region III - Central Luzon",6456
+2000,"Region III - Central Luzon",7867
+2001,"Region III - Central Luzon",7805
+2002,"Region III - Central Luzon",8740
+2003,"Region III - Central Luzon",8215
+2004,"Region III - Central Luzon",9648
+2005,"Region III - Central Luzon",10152
+2006,"Region III - Central Luzon",11965
+2007,"Region III - Central Luzon",12546
+2008,"Region III - Central Luzon",10898
+2009,"Region III - Central Luzon",12927
+2010,"Region III - Central Luzon",14168
+2011,"Region III - Central Luzon",13280
+2012,"Region III - Central Luzon",13427
+2013,"Region III - Central Luzon",12624
+2014,"Region III - Central Luzon",13196
+2015,"Region III - Central Luzon",15199
+2016,"Region III - Central Luzon",14469
+2017,"Region III - Central Luzon",12598
+2018,"Region III - Central Luzon",11772
+2019,"Region III - Central Luzon",10478
+2020,"Region III - Central Luzon",2552
+1988,"Region IV A - CALABARZON",6438
+1989,"Region IV A - CALABARZON",6481
+1990,"Region IV A - CALABARZON",7512
+1991,"Region IV A - CALABARZON",7441
+1992,"Region IV A - CALABARZON",7623
+1993,"Region IV A - CALABARZON",8119
+1994,"Region IV A - CALABARZON",8397
+1995,"Region IV A - CALABARZON",7325
+1996,"Region IV A - CALABARZON",8261
+1997,"Region IV A - CALABARZON",7577
+1998,"Region IV A - CALABARZON",5411
+1999,"Region IV A - CALABARZON",5574
+2000,"Region IV A - CALABARZON",7390
+2001,"Region IV A - CALABARZON",8364
+2002,"Region IV A - CALABARZON",8783
+2003,"Region IV A - CALABARZON",8461
+2004,"Region IV A - CALABARZON",10019
+2005,"Region IV A - CALABARZON",11325
+2006,"Region IV A - CALABARZON",13500
+2007,"Region IV A - CALABARZON",13542
+2008,"Region IV A - CALABARZON",12611
+2009,"Region IV A - CALABARZON",15022
+2010,"Region IV A - CALABARZON",16657
+2011,"Region IV A - CALABARZON",16672
+2012,"Region IV A - CALABARZON",15670
+2013,"Region IV A - CALABARZON",15562
+2014,"Region IV A - CALABARZON",15645
+2015,"Region IV A - CALABARZON",16620
+2016,"Region IV A - CALABARZON",16258
+2017,"Region IV A - CALABARZON",14298
+2018,"Region IV A - CALABARZON",12832
+2019,"Region IV A - CALABARZON",11204
+2020,"Region IV A - CALABARZON",2877
+1988,"Region IV B - MIMAROPA",227
+1989,"Region IV B - MIMAROPA",211
+1990,"Region IV B - MIMAROPA",249
+1991,"Region IV B - MIMAROPA",179
+1992,"Region IV B - MIMAROPA",230
+1993,"Region IV B - MIMAROPA",313
+1994,"Region IV B - MIMAROPA",281
+1995,"Region IV B - MIMAROPA",247
+1996,"Region IV B - MIMAROPA",282
+1997,"Region IV B - MIMAROPA",221
+1998,"Region IV B - MIMAROPA",227
+1999,"Region IV B - MIMAROPA",197
+2000,"Region IV B - MIMAROPA",291
+2001,"Region IV B - MIMAROPA",275
+2002,"Region IV B - MIMAROPA",281
+2003,"Region IV B - MIMAROPA",295
+2004,"Region IV B - MIMAROPA",340
+2005,"Region IV B - MIMAROPA",395
+2006,"Region IV B - MIMAROPA",378
+2007,"Region IV B - MIMAROPA",412
+2008,"Region IV B - MIMAROPA",402
+2009,"Region IV B - MIMAROPA",544
+2010,"Region IV B - MIMAROPA",641
+2011,"Region IV B - MIMAROPA",682
+2012,"Region IV B - MIMAROPA",702
+2013,"Region IV B - MIMAROPA",645
+2014,"Region IV B - MIMAROPA",603
+2015,"Region IV B - MIMAROPA",723
+2016,"Region IV B - MIMAROPA",724
+2017,"Region IV B - MIMAROPA",708
+2018,"Region IV B - MIMAROPA",626
+2019,"Region IV B - MIMAROPA",608
+2020,"Region IV B - MIMAROPA",142
+1988,"Region V - Bicol Region",766
+1989,"Region V - Bicol Region",609
+1990,"Region V - Bicol Region",812
+1991,"Region V - Bicol Region",815
+1992,"Region V - Bicol Region",842
+1993,"Region V - Bicol Region",873
+1994,"Region V - Bicol Region",892
+1995,"Region V - Bicol Region",735
+1996,"Region V - Bicol Region",847
+1997,"Region V - Bicol Region",800
+1998,"Region V - Bicol Region",604
+1999,"Region V - Bicol Region",672
+2000,"Region V - Bicol Region",767
+2001,"Region V - Bicol Region",837
+2002,"Region V - Bicol Region",940
+2003,"Region V - Bicol Region",871
+2004,"Region V - Bicol Region",1019
+2005,"Region V - Bicol Region",1106
+2006,"Region V - Bicol Region",1438
+2007,"Region V - Bicol Region",1294
+2008,"Region V - Bicol Region",1120
+2009,"Region V - Bicol Region",1363
+2010,"Region V - Bicol Region",1236
+2011,"Region V - Bicol Region",1489
+2012,"Region V - Bicol Region",1476
+2013,"Region V - Bicol Region",1441
+2014,"Region V - Bicol Region",1507
+2015,"Region V - Bicol Region",1792
+2016,"Region V - Bicol Region",1898
+2017,"Region V - Bicol Region",1682
+2018,"Region V - Bicol Region",1604
+2019,"Region V - Bicol Region",1454
+2020,"Region V - Bicol Region",338
+1988,"Region VI - Western Visayas",1434
+1989,"Region VI - Western Visayas",1270
+1990,"Region VI - Western Visayas",1771
+1991,"Region VI - Western Visayas",1598
+1992,"Region VI - Western Visayas",1792
+1993,"Region VI - Western Visayas",2097
+1994,"Region VI - Western Visayas",1970
+1995,"Region VI - Western Visayas",1533
+1996,"Region VI - Western Visayas",1700
+1997,"Region VI - Western Visayas",1604
+1998,"Region VI - Western Visayas",1189
+1999,"Region VI - Western Visayas",1141
+2000,"Region VI - Western Visayas",1572
+2001,"Region VI - Western Visayas",1730
+2002,"Region VI - Western Visayas",2122
+2003,"Region VI - Western Visayas",2063
+2004,"Region VI - Western Visayas",2584
+2005,"Region VI - Western Visayas",2464
+2006,"Region VI - Western Visayas",3358
+2007,"Region VI - Western Visayas",2807
+2008,"Region VI - Western Visayas",2339
+2009,"Region VI - Western Visayas",2573
+2010,"Region VI - Western Visayas",3012
+2011,"Region VI - Western Visayas",3013
+2012,"Region VI - Western Visayas",3344
+2013,"Region VI - Western Visayas",2891
+2014,"Region VI - Western Visayas",3551
+2015,"Region VI - Western Visayas",4119
+2016,"Region VI - Western Visayas",3617
+2017,"Region VI - Western Visayas",3223
+2018,"Region VI - Western Visayas",3498
+2019,"Region VI - Western Visayas",2833
+2020,"Region VI - Western Visayas",652
+1988,"Region VII - Central Visayas",2295
+1989,"Region VII - Central Visayas",2276
+1990,"Region VII - Central Visayas",2599
+1991,"Region VII - Central Visayas",2754
+1992,"Region VII - Central Visayas",3036
+1993,"Region VII - Central Visayas",3346
+1994,"Region VII - Central Visayas",3021
+1995,"Region VII - Central Visayas",2419
+1996,"Region VII - Central Visayas",2724
+1997,"Region VII - Central Visayas",2740
+1998,"Region VII - Central Visayas",2064
+1999,"Region VII - Central Visayas",2354
+2000,"Region VII - Central Visayas",2901
+2001,"Region VII - Central Visayas",3231
+2002,"Region VII - Central Visayas",4161
+2003,"Region VII - Central Visayas",3738
+2004,"Region VII - Central Visayas",4339
+2005,"Region VII - Central Visayas",4912
+2006,"Region VII - Central Visayas",6256
+2007,"Region VII - Central Visayas",5398
+2008,"Region VII - Central Visayas",4391
+2009,"Region VII - Central Visayas",4917
+2010,"Region VII - Central Visayas",5134
+2011,"Region VII - Central Visayas",5250
+2012,"Region VII - Central Visayas",5711
+2013,"Region VII - Central Visayas",5281
+2014,"Region VII - Central Visayas",5383
+2015,"Region VII - Central Visayas",6149
+2016,"Region VII - Central Visayas",6296
+2017,"Region VII - Central Visayas",5778
+2018,"Region VII - Central Visayas",5429
+2019,"Region VII - Central Visayas",5018
+2020,"Region VII - Central Visayas",1221
+1988,"Region VIII - Eastern Visayas",558
+1989,"Region VIII - Eastern Visayas",536
+1990,"Region VIII - Eastern Visayas",605
+1991,"Region VIII - Eastern Visayas",643
+1992,"Region VIII - Eastern Visayas",710
+1993,"Region VIII - Eastern Visayas",830
+1994,"Region VIII - Eastern Visayas",698
+1995,"Region VIII - Eastern Visayas",626
+1996,"Region VIII - Eastern Visayas",694
+1997,"Region VIII - Eastern Visayas",677
+1998,"Region VIII - Eastern Visayas",532
+1999,"Region VIII - Eastern Visayas",567
+2000,"Region VIII - Eastern Visayas",627
+2001,"Region VIII - Eastern Visayas",587
+2002,"Region VIII - Eastern Visayas",798
+2003,"Region VIII - Eastern Visayas",713
+2004,"Region VIII - Eastern Visayas",940
+2005,"Region VIII - Eastern Visayas",907
+2006,"Region VIII - Eastern Visayas",1253
+2007,"Region VIII - Eastern Visayas",1304
+2008,"Region VIII - Eastern Visayas",1241
+2009,"Region VIII - Eastern Visayas",1331
+2010,"Region VIII - Eastern Visayas",1355
+2011,"Region VIII - Eastern Visayas",1301
+2012,"Region VIII - Eastern Visayas",1462
+2013,"Region VIII - Eastern Visayas",1399
+2014,"Region VIII - Eastern Visayas",1435
+2015,"Region VIII - Eastern Visayas",1621
+2016,"Region VIII - Eastern Visayas",1621
+2017,"Region VIII - Eastern Visayas",1407
+2018,"Region VIII - Eastern Visayas",1352
+2019,"Region VIII - Eastern Visayas",1373
+2020,"Region VIII - Eastern Visayas",301
+1988,"Region IX - Zamboanga Peninsula",214
+1989,"Region IX - Zamboanga Peninsula",185
+1990,"Region IX - Zamboanga Peninsula",250
+1991,"Region IX - Zamboanga Peninsula",259
+1992,"Region IX - Zamboanga Peninsula",322
+1993,"Region IX - Zamboanga Peninsula",385
+1994,"Region IX - Zamboanga Peninsula",424
+1995,"Region IX - Zamboanga Peninsula",270
+1996,"Region IX - Zamboanga Peninsula",385
+1997,"Region IX - Zamboanga Peninsula",377
+1998,"Region IX - Zamboanga Peninsula",251
+1999,"Region IX - Zamboanga Peninsula",316
+2000,"Region IX - Zamboanga Peninsula",379
+2001,"Region IX - Zamboanga Peninsula",380
+2002,"Region IX - Zamboanga Peninsula",540
+2003,"Region IX - Zamboanga Peninsula",509
+2004,"Region IX - Zamboanga Peninsula",585
+2005,"Region IX - Zamboanga Peninsula",626
+2006,"Region IX - Zamboanga Peninsula",1022
+2007,"Region IX - Zamboanga Peninsula",805
+2008,"Region IX - Zamboanga Peninsula",685
+2009,"Region IX - Zamboanga Peninsula",789
+2010,"Region IX - Zamboanga Peninsula",677
+2011,"Region IX - Zamboanga Peninsula",875
+2012,"Region IX - Zamboanga Peninsula",956
+2013,"Region IX - Zamboanga Peninsula",817
+2014,"Region IX - Zamboanga Peninsula",822
+2015,"Region IX - Zamboanga Peninsula",988
+2016,"Region IX - Zamboanga Peninsula",967
+2017,"Region IX - Zamboanga Peninsula",838
+2018,"Region IX - Zamboanga Peninsula",879
+2019,"Region IX - Zamboanga Peninsula",787
+2020,"Region IX - Zamboanga Peninsula",199
+1988,"Region X - Northern Mindanao",422
+1989,"Region X - Northern Mindanao",389
+1990,"Region X - Northern Mindanao",479
+1991,"Region X - Northern Mindanao",586
+1992,"Region X - Northern Mindanao",623
+1993,"Region X - Northern Mindanao",792
+1994,"Region X - Northern Mindanao",765
+1995,"Region X - Northern Mindanao",657
+1996,"Region X - Northern Mindanao",739
+1997,"Region X - Northern Mindanao",754
+1998,"Region X - Northern Mindanao",583
+1999,"Region X - Northern Mindanao",683
+2000,"Region X - Northern Mindanao",908
+2001,"Region X - Northern Mindanao",884
+2002,"Region X - Northern Mindanao",1153
+2003,"Region X - Northern Mindanao",1146
+2004,"Region X - Northern Mindanao",1514
+2005,"Region X - Northern Mindanao",1547
+2006,"Region X - Northern Mindanao",2260
+2007,"Region X - Northern Mindanao",1968
+2008,"Region X - Northern Mindanao",1638
+2009,"Region X - Northern Mindanao",1808
+2010,"Region X - Northern Mindanao",1735
+2011,"Region X - Northern Mindanao",1817
+2012,"Region X - Northern Mindanao",2062
+2013,"Region X - Northern Mindanao",1885
+2014,"Region X - Northern Mindanao",1865
+2015,"Region X - Northern Mindanao",2170
+2016,"Region X - Northern Mindanao",2261
+2017,"Region X - Northern Mindanao",2045
+2018,"Region X - Northern Mindanao",1988
+2019,"Region X - Northern Mindanao",1949
+2020,"Region X - Northern Mindanao",414
+1988,"Region XI - Davao Region",415
+1989,"Region XI - Davao Region",427
+1990,"Region XI - Davao Region",405
+1991,"Region XI - Davao Region",544
+1992,"Region XI - Davao Region",603
+1993,"Region XI - Davao Region",715
+1994,"Region XI - Davao Region",783
+1995,"Region XI - Davao Region",617
+1996,"Region XI - Davao Region",722
+1997,"Region XI - Davao Region",729
+1998,"Region XI - Davao Region",572
+1999,"Region XI - Davao Region",823
+2000,"Region XI - Davao Region",1361
+2001,"Region XI - Davao Region",1388
+2002,"Region XI - Davao Region",1728
+2003,"Region XI - Davao Region",1941
+2004,"Region XI - Davao Region",2139
+2005,"Region XI - Davao Region",2300
+2006,"Region XI - Davao Region",2706
+2007,"Region XI - Davao Region",2763
+2008,"Region XI - Davao Region",2663
+2009,"Region XI - Davao Region",2367
+2010,"Region XI - Davao Region",2461
+2011,"Region XI - Davao Region",2684
+2012,"Region XI - Davao Region",3197
+2013,"Region XI - Davao Region",2689
+2014,"Region XI - Davao Region",2823
+2015,"Region XI - Davao Region",3449
+2016,"Region XI - Davao Region",3434
+2017,"Region XI - Davao Region",3104
+2018,"Region XI - Davao Region",2986
+2019,"Region XI - Davao Region",2872
+2020,"Region XI - Davao Region",773
+1988,"Region XII - SOCCSKSARGEN",118
+1989,"Region XII - SOCCSKSARGEN",176
+1990,"Region XII - SOCCSKSARGEN",195
+1991,"Region XII - SOCCSKSARGEN",171
+1992,"Region XII - SOCCSKSARGEN",267
+1993,"Region XII - SOCCSKSARGEN",272
+1994,"Region XII - SOCCSKSARGEN",265
+1995,"Region XII - SOCCSKSARGEN",241
+1996,"Region XII - SOCCSKSARGEN",310
+1997,"Region XII - SOCCSKSARGEN",254
+1998,"Region XII - SOCCSKSARGEN",272
+1999,"Region XII - SOCCSKSARGEN",248
+2000,"Region XII - SOCCSKSARGEN",342
+2001,"Region XII - SOCCSKSARGEN",370
+2002,"Region XII - SOCCSKSARGEN",419
+2003,"Region XII - SOCCSKSARGEN",467
+2004,"Region XII - SOCCSKSARGEN",557
+2005,"Region XII - SOCCSKSARGEN",645
+2006,"Region XII - SOCCSKSARGEN",877
+2007,"Region XII - SOCCSKSARGEN",891
+2008,"Region XII - SOCCSKSARGEN",800
+2009,"Region XII - SOCCSKSARGEN",797
+2010,"Region XII - SOCCSKSARGEN",870
+2011,"Region XII - SOCCSKSARGEN",833
+2012,"Region XII - SOCCSKSARGEN",884
+2013,"Region XII - SOCCSKSARGEN",927
+2014,"Region XII - SOCCSKSARGEN",958
+2015,"Region XII - SOCCSKSARGEN",1221
+2016,"Region XII - SOCCSKSARGEN",1307
+2017,"Region XII - SOCCSKSARGEN",1080
+2018,"Region XII - SOCCSKSARGEN",1099
+2019,"Region XII - SOCCSKSARGEN",1031
+2020,"Region XII - SOCCSKSARGEN",218
+1988,"Region XIII - Caraga",148
+1989,"Region XIII - Caraga",144
+1990,"Region XIII - Caraga",172
+1991,"Region XIII - Caraga",194
+1992,"Region XIII - Caraga",217
+1993,"Region XIII - Caraga",226
+1994,"Region XIII - Caraga",269
+1995,"Region XIII - Caraga",214
+1996,"Region XIII - Caraga",272
+1997,"Region XIII - Caraga",258
+1998,"Region XIII - Caraga",187
+1999,"Region XIII - Caraga",284
+2000,"Region XIII - Caraga",295
+2001,"Region XIII - Caraga",279
+2002,"Region XIII - Caraga",372
+2003,"Region XIII - Caraga",361
+2004,"Region XIII - Caraga",467
+2005,"Region XIII - Caraga",506
+2006,"Region XIII - Caraga",739
+2007,"Region XIII - Caraga",664
+2008,"Region XIII - Caraga",648
+2009,"Region XIII - Caraga",715
+2010,"Region XIII - Caraga",698
+2011,"Region XIII - Caraga",702
+2012,"Region XIII - Caraga",759
+2013,"Region XIII - Caraga",739
+2014,"Region XIII - Caraga",717
+2015,"Region XIII - Caraga",846
+2016,"Region XIII - Caraga",947
+2017,"Region XIII - Caraga",776
+2018,"Region XIII - Caraga",676
+2019,"Region XIII - Caraga",751
+2020,"Region XIII - Caraga",146
+1988,"Autonomous Region in Muslim Mindanao (ARMM)",7
+1989,"Autonomous Region in Muslim Mindanao (ARMM)",15
+1990,"Autonomous Region in Muslim Mindanao (ARMM)",9
+1991,"Autonomous Region in Muslim Mindanao (ARMM)",12
+1992,"Autonomous Region in Muslim Mindanao (ARMM)",11
+1993,"Autonomous Region in Muslim Mindanao (ARMM)",16
+1994,"Autonomous Region in Muslim Mindanao (ARMM)",11
+1995,"Autonomous Region in Muslim Mindanao (ARMM)",8
+1996,"Autonomous Region in Muslim Mindanao (ARMM)",20
+1997,"Autonomous Region in Muslim Mindanao (ARMM)",5
+1998,"Autonomous Region in Muslim Mindanao (ARMM)",3
+1999,"Autonomous Region in Muslim Mindanao (ARMM)",18
+2000,"Autonomous Region in Muslim Mindanao (ARMM)",29
+2001,"Autonomous Region in Muslim Mindanao (ARMM)",14
+2002,"Autonomous Region in Muslim Mindanao (ARMM)",18
+2003,"Autonomous Region in Muslim Mindanao (ARMM)",17
+2004,"Autonomous Region in Muslim Mindanao (ARMM)",13
+2005,"Autonomous Region in Muslim Mindanao (ARMM)",38
+2006,"Autonomous Region in Muslim Mindanao (ARMM)",26
+2007,"Autonomous Region in Muslim Mindanao (ARMM)",32
+2008,"Autonomous Region in Muslim Mindanao (ARMM)",19
+2009,"Autonomous Region in Muslim Mindanao (ARMM)",13
+2010,"Autonomous Region in Muslim Mindanao (ARMM)",26
+2011,"Autonomous Region in Muslim Mindanao (ARMM)",18
+2012,"Autonomous Region in Muslim Mindanao (ARMM)",33
+2013,"Autonomous Region in Muslim Mindanao (ARMM)",16
+2014,"Autonomous Region in Muslim Mindanao (ARMM)",22
+2015,"Autonomous Region in Muslim Mindanao (ARMM)",41
+2016,"Autonomous Region in Muslim Mindanao (ARMM)",21
+2017,"Autonomous Region in Muslim Mindanao (ARMM)",21
+2018,"Autonomous Region in Muslim Mindanao (ARMM)",31
+2019,"Autonomous Region in Muslim Mindanao (ARMM)",35
+2020,"Autonomous Region in Muslim Mindanao (ARMM)",8
+1988,"Cordillera Administrative Region (CAR)",1064
+1989,"Cordillera Administrative Region (CAR)",839
+1990,"Cordillera Administrative Region (CAR)",935
+1991,"Cordillera Administrative Region (CAR)",952
+1992,"Cordillera Administrative Region (CAR)",1027
+1993,"Cordillera Administrative Region (CAR)",1089
+1994,"Cordillera Administrative Region (CAR)",1132
+1995,"Cordillera Administrative Region (CAR)",977
+1996,"Cordillera Administrative Region (CAR)",1112
+1997,"Cordillera Administrative Region (CAR)",1013
+1998,"Cordillera Administrative Region (CAR)",739
+1999,"Cordillera Administrative Region (CAR)",889
+2000,"Cordillera Administrative Region (CAR)",1187
+2001,"Cordillera Administrative Region (CAR)",1078
+2002,"Cordillera Administrative Region (CAR)",1349
+2003,"Cordillera Administrative Region (CAR)",1285
+2004,"Cordillera Administrative Region (CAR)",1555
+2005,"Cordillera Administrative Region (CAR)",1414
+2006,"Cordillera Administrative Region (CAR)",1831
+2007,"Cordillera Administrative Region (CAR)",1514
+2008,"Cordillera Administrative Region (CAR)",1427
+2009,"Cordillera Administrative Region (CAR)",1587
+2010,"Cordillera Administrative Region (CAR)",2021
+2011,"Cordillera Administrative Region (CAR)",2133
+2012,"Cordillera Administrative Region (CAR)",2007
+2013,"Cordillera Administrative Region (CAR)",1829
+2014,"Cordillera Administrative Region (CAR)",1918
+2015,"Cordillera Administrative Region (CAR)",2906
+2016,"Cordillera Administrative Region (CAR)",2510
+2017,"Cordillera Administrative Region (CAR)",2324
+2018,"Cordillera Administrative Region (CAR)",2089
+2019,"Cordillera Administrative Region (CAR)",1738
+2020,"Cordillera Administrative Region (CAR)",401
+1988,"National Capital Region (NCR)",25370
+1989,"National Capital Region (NCR)",24543
+1990,"National Capital Region (NCR)",27170
+1991,"National Capital Region (NCR)",27075
+1992,"National Capital Region (NCR)",26539
+1993,"National Capital Region (NCR)",28013
+1994,"National Capital Region (NCR)",26343
+1995,"National Capital Region (NCR)",22788
+1996,"National Capital Region (NCR)",23411
+1997,"National Capital Region (NCR)",20369
+1998,"National Capital Region (NCR)",14358
+1999,"National Capital Region (NCR)",14548
+2000,"National Capital Region (NCR)",18173
+2001,"National Capital Region (NCR)",18338
+2002,"National Capital Region (NCR)",19313
+2003,"National Capital Region (NCR)",18047
+2004,"National Capital Region (NCR)",20578
+2005,"National Capital Region (NCR)",22485
+2006,"National Capital Region (NCR)",25861
+2007,"National Capital Region (NCR)",24744
+2008,"National Capital Region (NCR)",21053
+2009,"National Capital Region (NCR)",22063
+2010,"National Capital Region (NCR)",22370
+2011,"National Capital Region (NCR)",20968
+2012,"National Capital Region (NCR)",20931
+2013,"National Capital Region (NCR)",19277
+2014,"National Capital Region (NCR)",19463
+2015,"National Capital Region (NCR)",21236
+2016,"National Capital Region (NCR)",20655
+2017,"National Capital Region (NCR)",17613
+2018,"National Capital Region (NCR)",16064
+2019,"National Capital Region (NCR)",14081
+2020,"National Capital Region (NCR)",3416
