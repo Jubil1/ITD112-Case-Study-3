@@ -15,6 +15,7 @@ const visualizationLinks = [
   { name: "Relationship Analysis", path: "/relationships", description: "Explore correlations" },
   { name: "Ranking", path: "/radar", description: "Compare multiple dimensions" },
   { name: "Flow/Process", path: "/parallel", description: "Visualize data flow" },
+  { name: "Machine Learning", path: "/ml", description: "Predict emigration patterns" },  // Add this line
   { name: "Upload Data", path: "/upload", description: "Upload CSV files" },
   { name: "Data Management", path: "/crud", description: "Manage data records" },
 ];

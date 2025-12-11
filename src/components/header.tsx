@@ -12,6 +12,7 @@ const navigationItems = [
   { name: "Relationships", path: "/relationships" },
   { name: "Ranking", path: "/radar" },
   { name: "Flow/Process", path: "/parallel" },
+  { name: "Machine Learning", path: "/ml" },  // Add this line
   { name: "Upload Data", path: "/upload" },
   { name: "Data Management", path: "/crud" },
 ];

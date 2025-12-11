@@ -14,6 +14,7 @@ import { Route as TrendsRouteImport } from './routes/trends'
 import { Route as RelationshipsRouteImport } from './routes/relationships'
 import { Route as RadarRouteImport } from './routes/radar'
 import { Route as ParallelRouteImport } from './routes/parallel'
+import { Route as MlRouteImport } from './routes/ml'
 import { Route as GeographicRouteImport } from './routes/geographic'
 import { Route as DistributionRouteImport } from './routes/distribution'
 import { Route as CrudRouteImport } from './routes/crud'
@@ -44,6 +45,11 @@ const RadarRoute = RadarRouteImport.update({
 const ParallelRoute = ParallelRouteImport.update({
   id: '/parallel',
   path: '/parallel',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MlRoute = MlRouteImport.update({
+  id: '/ml',
+  path: '/ml',
   getParentRoute: () => rootRouteImport,
 } as any)
 const GeographicRoute = GeographicRouteImport.update({
@@ -84,6 +90,7 @@ export interface FileRoutesByFullPath {
   '/crud': typeof CrudRoute
   '/distribution': typeof DistributionRoute
   '/geographic': typeof GeographicRoute
+  '/ml': typeof MlRoute
   '/parallel': typeof ParallelRoute
   '/radar': typeof RadarRoute
   '/relationships': typeof RelationshipsRoute
@@ -97,6 +104,7 @@ export interface FileRoutesByTo {
   '/crud': typeof CrudRoute
   '/distribution': typeof DistributionRoute
   '/geographic': typeof GeographicRoute
+  '/ml': typeof MlRoute
   '/parallel': typeof ParallelRoute
   '/radar': typeof RadarRoute
   '/relationships': typeof RelationshipsRoute
@@ -111,6 +119,7 @@ export interface FileRoutesById {
   '/crud': typeof CrudRoute
   '/distribution': typeof DistributionRoute
   '/geographic': typeof GeographicRoute
+  '/ml': typeof MlRoute
   '/parallel': typeof ParallelRoute
   '/radar': typeof RadarRoute
   '/relationships': typeof RelationshipsRoute
@@ -126,6 +135,7 @@ export interface FileRouteTypes {
     | '/crud'
     | '/distribution'
     | '/geographic'
+    | '/ml'
     | '/parallel'
     | '/radar'
     | '/relationships'
@@ -139,6 +149,7 @@ export interface FileRouteTypes {
     | '/crud'
     | '/distribution'
     | '/geographic'
+    | '/ml'
     | '/parallel'
     | '/radar'
     | '/relationships'
@@ -152,6 +163,7 @@ export interface FileRouteTypes {
     | '/crud'
     | '/distribution'
     | '/geographic'
+    | '/ml'
     | '/parallel'
     | '/radar'
     | '/relationships'
@@ -166,6 +178,7 @@ export interface RootRouteChildren {
   CrudRoute: typeof CrudRoute
   DistributionRoute: typeof DistributionRoute
   GeographicRoute: typeof GeographicRoute
+  MlRoute: typeof MlRoute
   ParallelRoute: typeof ParallelRoute
   RadarRoute: typeof RadarRoute
   RelationshipsRoute: typeof RelationshipsRoute
@@ -208,6 +221,13 @@ declare module '@tanstack/react-router' {
       path: '/parallel'
       fullPath: '/parallel'
       preLoaderRoute: typeof ParallelRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ml': {
+      id: '/ml'
+      path: '/ml'
+      fullPath: '/ml'
+      preLoaderRoute: typeof MlRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/geographic': {
@@ -262,6 +282,7 @@ const rootRouteChildren: RootRouteChildren = {
   CrudRoute: CrudRoute,
   DistributionRoute: DistributionRoute,
   GeographicRoute: GeographicRoute,
+  MlRoute: MlRoute,
   ParallelRoute: ParallelRoute,
   RadarRoute: RadarRoute,
   RelationshipsRoute: RelationshipsRoute,
