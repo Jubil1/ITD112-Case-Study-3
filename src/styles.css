@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --scrollbar-track-bg: #1a0a1f;
+  --scrollbar-track-bg: #0f172a;
   --scrollbar-thumb-bg: linear-gradient(
     to bottom,
-    rgb(168, 85, 247),
-    rgb(126, 34, 206)
+    #06b6d4,
+    #0891b2
   );
 }
 
@@ -24,9 +24,9 @@ code {
 }
 
 @theme {
-  --color-primary: #1a0a2e;
-  --color-secondary: #2d1b4e;
-  --color-highlights: #a855f7;
+  --color-primary: #0f172a;      /* Dark slate */
+  --color-secondary: #1e293b;    /* Medium slate */
+  --color-highlights: #06b6d4;   /* Cyan accent */
 }
 
 .text-stroke {
