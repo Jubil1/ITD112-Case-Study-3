@@ -10,12 +10,13 @@ import {
   AiOutlineWarning,
 } from "react-icons/ai";
 import {
-  getAllData,
   postDataToFirestore,
   updateDataByYear,
   deleteDataByYear,
   getCategories,
 } from "../api/baseService";
+import { db } from "../firebase";
+import { collection, onSnapshot } from "firebase/firestore";
 
 export const Route = createFileRoute("/crud")({
   component: CRUDPage,
@@ -40,7 +41,7 @@ function CRUDPage() {
     useState<DataCollection>("emigrantData_destination");
   const [data, setData] = useState<DataRow[]>([]);
   const [categories, setCategories] = useState<string[]>([]);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string>("");
   const [success, setSuccess] = useState<string>("");
 
@@ -64,32 +65,47 @@ function CRUDPage() {
     { value: "emigrantData_province", label: "Province/Origin" },
   ];
 
+  // Real-time listener - directly in this component
   useEffect(() => {
-    loadData();
-  }, [selectedCollection]);
-
-  const loadData = async () => {
     setLoading(true);
     setError("");
-    setSuccess("");
-    try {
-      const result = await getAllData(selectedCollection);
-      setData(result);
+    
+    const collectionRef = collection(db, selectedCollection);
+    
+    const unsubscribe = onSnapshot(
+      collectionRef,
+      async (snapshot) => {
+        const updatedData = snapshot.docs.map(doc => ({
+          Year: parseInt(doc.id),
+          ...doc.data()
+        }));
+        
+        const sortedData = updatedData.sort((a, b) => a.Year - b.Year);
+        setData(sortedData);
+        setLoading(false);
 
-      if (result.length > 0) {
-        const cats = await getCategories(selectedCollection);
-        setCategories(cats.filter((c) => c !== "Year"));
-      } else {
-        setCategories([]);
+        // Update categories when data changes
+        if (updatedData.length > 0) {
+          try {
+            const cats = await getCategories(selectedCollection);
+            setCategories(cats.filter((c) => c !== "Year"));
+          } catch (err) {
+            console.error("Failed to load categories:", err);
+          }
+        } else {
+          setCategories([]);
+        }
+      },
+      (err) => {
+        setError(err.message || "Failed to sync data");
+        setLoading(false);
+        console.error("Firestore listener error:", err);
       }
-    } catch (err) {
-      setError(
-        err instanceof Error ? err.message : "Failed to load data"
-      );
-    } finally {
-      setLoading(false);
-    }
-  };
+    );
+
+    // Cleanup listener when component unmounts or collection changes
+    return () => unsubscribe();
+  }, [selectedCollection]);
 
   const handleCreate = async () => {
     setError("");
@@ -114,7 +130,7 @@ function CRUDPage() {
       setSuccess(`Successfully created record for year ${formYear}`);
       setShowCreateModal(false);
       resetForm();
-      loadData();
+      // No need to manually reload - real-time listener will update!
     } catch (err) {
       setError(
         err instanceof Error ? err.message : "Failed to create record"
@@ -136,7 +152,7 @@ function CRUDPage() {
       setSuccess(`Successfully updated record for year ${selectedRow.Year}`);
       setShowEditModal(false);
       resetForm();
-      loadData();
+      // No need to manually reload - real-time listener will update!
     } catch (err) {
       setError(
         err instanceof Error ? err.message : "Failed to update record"
@@ -154,7 +170,7 @@ function CRUDPage() {
       setSuccess(`Successfully deleted record for year ${selectedRow.Year}`);
       setShowDeleteModal(false);
       setSelectedRow(null);
-      loadData();
+      // No need to manually reload - real-time listener will update!
     } catch (err) {
       setError(
         err instanceof Error ? err.message : "Failed to delete record"
@@ -224,6 +240,10 @@ function CRUDPage() {
           </h1>
           <p className="text-gray-300 text-lg">
             Create, Read, Update, and Delete emigrant data records
+          </p>
+          <p className="text-green-400 text-sm mt-2 flex items-center gap-2">
+            <span className="inline-block w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
+            Real-time sync enabled
           </p>
         </div>
 

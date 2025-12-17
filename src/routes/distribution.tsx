@@ -94,8 +94,8 @@ function DistributionCharts() {
             <div className="h-96">
               <ResponsiveLine
                 data={countryDensityData}
-                margin={{ top: 50, right: 180, bottom: 70, left: 80 }}
-                xScale={{ type: "linear", min: 1960, max: 2040 }}
+                margin={{ top: 50, right: 200, bottom: 70, left: 80 }}
+                xScale={{ type: "linear", min: 1980, max: 2020 }}
                 yScale={{
                   type: "linear",
                   min: "auto",

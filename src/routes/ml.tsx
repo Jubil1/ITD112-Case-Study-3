@@ -76,9 +76,9 @@ function MachineLearningPage() {
 
   // Hyperparameter search space
   const HYPERPARAMETERS = {
-    lookback: [3, 5, 7],
+    lookback: [3],
     lstmNeurons: [32, 50, 64, 100],
-    dropout: [0.1, 0.2, 0.3]
+    dropout: [0.1]
   };
 
   // Load emigration data on mount or dataset change
@@ -533,13 +533,13 @@ function MachineLearningPage() {
               disabled={tuning}
               className="flex-1 max-w-md px-4 py-3 bg-primary border border-gray-600 rounded-lg text-white font-medium focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
             >
-              <option value="emigrantData_destination">📍 Destination - By destination countries</option>
-              <option value="emigrantData_age">👶 Age - By age groups</option>
-              <option value="emigrantData_civilStatus">💍 Civil Status - By marital status</option>
-              <option value="emigrantData_education">🎓 Education - By education level</option>
-              <option value="emigrantData_occupation">💼 Occupation - By occupation type</option>
-              <option value="emigrantData_province">🗺️ Province - By province of origin</option>
-              <option value="emigrantData_sex">⚧️ Sex - By gender</option>
+              <option value="emigrantData_destination">📍 Destination</option>
+              <option value="emigrantData_age">👶 Age</option>
+              <option value="emigrantData_civilStatus">💍 Civil Status </option>
+              <option value="emigrantData_education">🎓 Education </option>
+              <option value="emigrantData_occupation">💼 Occupation </option>
+              <option value="emigrantData_province">🗺️ Province </option>
+              <option value="emigrantData_sex">⚧️ Sex </option>
             </select>
           </div>
           <p className="text-gray-400 text-sm mt-3">
