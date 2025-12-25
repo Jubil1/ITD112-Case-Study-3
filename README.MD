@@ -4,6 +4,9 @@ A comprehensive data visualization dashboard for analyzing Filipino emigrant dat
 
 ## 🚀 Quick Start
 
+### 1. Demo
+https://github.com/user-attachments/assets/ddd30790-bce5-4a37-9b94-2797b882d722
+
 ### 1. Install Dependencies
 
 ```bash

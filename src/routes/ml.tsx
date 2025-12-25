@@ -77,7 +77,7 @@ function MachineLearningPage() {
   // Hyperparameter search space
   const HYPERPARAMETERS = {
     lookback: [3],
-    lstmNeurons: [32, 50, 64, 100],
+    lstmNeurons: [32],
     dropout: [0.1]
   };
 
