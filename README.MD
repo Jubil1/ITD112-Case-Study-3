@@ -7,13 +7,13 @@ A comprehensive data visualization dashboard for analyzing Filipino emigrant dat
 ### 1. Demo
 https://github.com/user-attachments/assets/ddd30790-bce5-4a37-9b94-2797b882d722
 
-### 1. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 2. **IMPORTANT: Update Firestore Rules**
+### 3. **IMPORTANT: Update Firestore Rules**
 
 The dashboard requires public read access to Firestore. Follow these steps:
 
@@ -36,7 +36,7 @@ firebase deploy --only firestore:rules
 
 See `FIRESTORE_RULES_SETUP.md` for detailed instructions.
 
-### 3. Run Development Server
+### 4. Run Development Server
 
 ```bash
 npm run dev
